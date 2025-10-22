@@ -1,0 +1,5 @@
+{
+  "name": "AI Instagram Bio Generator",
+  "description": "An application that uses AI to generate creative and personalized Instagram bios based on user's name, gender, and interests. It includes emojis, cool fonts, and relevant keywords to make your profile stand out.",
+  "requestFramePermissions": []
+}
